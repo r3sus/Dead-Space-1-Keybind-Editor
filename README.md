@@ -1,5 +1,8 @@
 # Dead Space 1 Keybind Editor
-Dead Space configuration tool by [felayga](https://github.com/felayga) allows to modify keyboard and mouse binds, accepting arrows and any other keyboard buttons, unlike the game settings do.
+
+- Dead Space configuration tool by [felayga](https://github.com/felayga) allows to modify keyboard and mouse binds. 
+- Accepts arrows and any other keyboard buttons, unlike the game settings do.
+- The tool can be downloaded [here](./bin/Debug/dead%20space%20config.exe).
 
 ![](./img/dead_space_config.png){width=50%}
 
