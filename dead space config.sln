@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dead space config", "dead space config.csproj", "{07892C17-E1DB-4568-99D0-C67E853D5241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07892C17-E1DB-4568-99D0-C67E853D5241}.Debug|x86.ActiveCfg = Debug|x86
+		{07892C17-E1DB-4568-99D0-C67E853D5241}.Debug|x86.Build.0 = Debug|x86
+		{07892C17-E1DB-4568-99D0-C67E853D5241}.Release|x86.ActiveCfg = Release|x86
+		{07892C17-E1DB-4568-99D0-C67E853D5241}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC4FF1A-14E0-4E69-B0F6-87A8021885B3}
+	EndGlobalSection
+EndGlobal
